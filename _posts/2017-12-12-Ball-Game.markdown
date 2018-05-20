@@ -4,4 +4,4 @@ title: Small Ball Game Sample
 date: 2017-12-03 15:43:00+00:00
 categories: update
 ---
-<a href="../game.html"> Game Link</a>
+<a href="../samples/game.html"> Game Link</a>
