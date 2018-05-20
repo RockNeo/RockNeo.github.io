@@ -1,14 +1,14 @@
 # Site settings
 
 title: Neo # Title of your site
-email: zheshineo@gmail.com 
+email: theideasaler@gmail.com 
 
 description: > 
   Neo's  Blog concerning Tech & Life
 baseurl: "" 
 url: "http://www.im-neo.com" 
 
-github_username:     RockNeo  
+github_username:     theideasaler  
 facebook_username:    Neo Socket  
 
 
